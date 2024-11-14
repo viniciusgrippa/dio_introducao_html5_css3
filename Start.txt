@@ -1,0 +1,10 @@
+Introdução ao HTML5 e CSS3
+
+HTML5
+    Versão mais nova do padrão HTML
+    
+    HTML é o padrão utilizado para criação de páginas WEB
+    
+    No HTML5 foram introduzidos novos elementos que proporcionam suporte a maior interatividade com o usuário.
+
+    
